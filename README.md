@@ -8,6 +8,8 @@ Install [OmniDiskSweeper](http://www.omnigroup.com/products/omnidisksweeper/). O
 include omnidisksweeper
 ```
 
+WARNING: doesn't work yet, because dmg is blocked by a license agreement.
+
 ## Required Puppet Modules
 
 * `boxen`
